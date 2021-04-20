@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/orbittex/50b5a434-9470-440d-a7f1-417279ad6f8b/0f43d08e-cb99-4825-8b4e-5c23a056ccfc/_apis/work/boardbadge/52693147-59fc-4ff9-9649-eafcb1444310)](https://dev.azure.com/orbittex/50b5a434-9470-440d-a7f1-417279ad6f8b/_boards/board/t/0f43d08e-cb99-4825-8b4e-5c23a056ccfc/Microsoft.RequirementCategory)
 # Space Situational Awareness in Low Earth Orbit
 
 [Low earth orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit) (LEO) is a crowded place and the number of anthropogenic space objects (ASOs) entering LEO is rapidly escalating. With this population boom also comes the inevitable increase in close encounters (conjunctions) between objects. The heart of the space situational awareness (SSA) problem is to predict where ASOs are and where they are going; everything from a spec of paint to the International Space Station.
